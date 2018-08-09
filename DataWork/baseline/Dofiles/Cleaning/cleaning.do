@@ -10,6 +10,6 @@
 
 
 
-
+	save "${baseline_dtInt}/analysis_census.dta" , replace
 
 * Have a lovely day!
