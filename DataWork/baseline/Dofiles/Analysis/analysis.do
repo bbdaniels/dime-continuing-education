@@ -7,6 +7,9 @@
 
 	scatter pop medage
 	codebook, compact
+	
+	describe
+	
 
 tab *
 regress 
