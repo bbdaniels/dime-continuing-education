@@ -7,8 +7,10 @@
 
 	scatter pop medage
 	codebook, compact
-
-
-dsabu osmdow
+	
+	describe
+	
+tab *
+regress 
 
 * Have a lovely day!
