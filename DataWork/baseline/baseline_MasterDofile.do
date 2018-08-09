@@ -150,7 +150,9 @@
 
    do "$dataWorkFolder/global_setup.do" 
 
-
+**kkkkkkkkkkkkkkkkkkkkkk
+   
+   
 *iefolder*2*End_StandardGlobals*************************************************
 *iefolder will not work properly if the line above is edited
 
@@ -194,7 +196,7 @@
    if (`analysisDo' == 1) { //Change the local above to run or not to run this file
        do "$baseline_do/baseline_analysis_MasterDofile.do" 
    }
-
+Hi, this is varni!
 *iefolder*3*End_RunDofiles******************************************************
 *iefolder will not work properly if the line above is edited
 
