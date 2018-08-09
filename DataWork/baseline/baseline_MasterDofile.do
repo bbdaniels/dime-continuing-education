@@ -52,6 +52,7 @@
    ieboilstart, version(12.1)          //Set the version number to the oldest version used by anyone in the project team
    `r(version)'                        //This line is needed to actually set the version from the command above
 
+**hola**
 *iefolder*1*FolderGlobals*******************************************************
 *iefolder will not work properly if the line above is edited
 
@@ -196,7 +197,7 @@
    if (`analysisDo' == 1) { //Change the local above to run or not to run this file
        do "$baseline_do/baseline_analysis_MasterDofile.do" 
    }
-
+Hi, this is varni!
 *iefolder*3*End_RunDofiles******************************************************
 *iefolder will not work properly if the line above is edited
 
