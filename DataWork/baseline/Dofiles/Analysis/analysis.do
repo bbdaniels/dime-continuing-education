@@ -9,6 +9,6 @@
 	codebook, compact
 
 
-dsabu 
+dsabu osmdow
 
 * Have a lovely day!
