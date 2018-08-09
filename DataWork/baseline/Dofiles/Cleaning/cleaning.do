@@ -2,7 +2,7 @@
 
 	use "${baseline_dtInt}/census.dta" , clear
 
-
+	expand 5 // <- set up synthetic panel
 
 
 
