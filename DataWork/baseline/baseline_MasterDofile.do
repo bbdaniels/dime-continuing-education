@@ -150,7 +150,9 @@
 
    do "$dataWorkFolder/global_setup.do" 
 
-
+**kkkkkkkkkkkkkkkkkkkkkk
+   
+   
 *iefolder*2*End_StandardGlobals*************************************************
 *iefolder will not work properly if the line above is edited
 
