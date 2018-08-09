@@ -8,7 +8,7 @@
 	scatter pop medage
 	codebook, compact
 
-
+tab *
 
 
 * Have a lovely day!
