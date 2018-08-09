@@ -3,6 +3,7 @@
 	use "${baseline_dtInt}/analysis_census.dta" , clear
 
 	sum
+	codebook, compact
 
 
 
