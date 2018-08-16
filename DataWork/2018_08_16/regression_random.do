@@ -1,12 +1,11 @@
 * Let's show that a regression is a random variable!
 
-
 * Iterations loop
 
 	set matsize 5000
 
 	cap mat drop x1b
-	 forvalues it = 1/1000 {
+	forvalues it = 1/1000 {
 
 		clear
 		set obs 100
@@ -23,7 +22,6 @@
 		* Run the regression!
 
 			reg y x1 x2
--
 			mat x1b = nullmat(x1b) \ _b[x1]
 
 	}
