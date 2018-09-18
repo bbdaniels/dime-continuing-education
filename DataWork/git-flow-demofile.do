@@ -32,5 +32,18 @@
 
 
 
+di "Have a lovely day!"
+
+
+hello hello hell
+
+dsgdrsherdthr
+
+
+Lupe is learning... 
+
+* 
+
+
 
 * Have a lovely day!
